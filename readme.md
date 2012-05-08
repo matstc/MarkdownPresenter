@@ -1,3 +1,9 @@
+Notes by Matt
+===
+
+The bullet icon was designed by [177designs](http://findicons.com/pack/2456/hand_drawn_web_icons)
+
+
 Markdown Presenter
 ===
 

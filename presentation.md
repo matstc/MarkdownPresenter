@@ -1,102 +1,64 @@
-Apps 
-===
-Lots of people have been asking stuff...
+## Todos
+* Find 2 more projects
+* Github my changes to MarkdownPresenter
+* Host this presentation somewhere to make links available
+* Walk through with Wolf
 
 !
 
-My story
-===
-* Wasted +1yr on first app
-* First few failed
-* Since then churn out simple ones
-* Been focused a few months maybe?
-* 7 or 8 apps now
+## Schedule
+1. Introduce + give overview (2 minutes)
+2. Present the projects (5 minutes)
+3. Divide into teams (2 minutes)
+4. Go crazy (45 minutes)
+5. Present back (5 minutes each)
+
+Total: 60 + 5*(number of teams) minutes
 
 !
 
-Sales
-===
-* Money's kinda useful
-* Average $70/day
-* Soon to be $100 with voda app
-* Thats 36k...
-* I want a boat
+## Projects
 
 !
 
-Coding
-===
-* Obj-C is nice
-* Think of it like a VERY simple layer of OO on top of C
-* Much simpler than C++
-* Like JS with C syntax
+### 1 - Open Data Kit
+[http://opendatakit.org/](http://opendatakit.org/)
+
+Set of tools to help NGOs author, field, and manage mobile data collection solutions.
+
++ Open source software
++ Won the Pizzigati prize in 2010
 
 !
 
-Time and Motivation
-===
-* I spend a few hours a week on it
-* Motivated by family/house
-* Dont be scared to give it a go
+### 2 - Guardian Project
+[https://guardianproject.info/](https://guardianproject.info/)
+
+Open-source firmware MODs and custom phones to protect your privacy.
+
++ Hardcore low-level stuff
++ Open source project
 
 !
 
-Support
-===
-* I have my email in most apps
-* Get maybe one a day?
-* Everyone is friendly
-* I gave one refund
+### 3 - biNu
+[http://www.binu.com](http://www.binu.com)
+
+Turn a feature phone into a smart phone.
+
++ Australian startup
++ Platform for feature phones
++ WorldReader app
 
 !
 
-Fail forwards
-===
-* Most apps fail
-* < $5 / week = fail
-* So: Make lots of small apps
-* Build on what works eg usage
-* Remember rovio made 51 apps before angry birds.
+## Questions to answer
+1. What is it?
+2. What can I do with it?
+3. Demo
+4. How can I contribute?
+5. How can TW contribute?
 
 !
 
-Ideas
-===
-* Start with crummy ideas. Thats better than nothing.
-* If it's 'obvious' to you, then its probably useful to someone.
-* Execution > ideas anyway.
-
-!
-
-Marketing
-===
-* Tried free for a week - fail (800 -> 0)
-* I have websites for my apps - nothing
-* Tried $2 - nothing, except usage apps
-* Now I just plonk them on at $1 or $2 and leave it
-* Haven't tried adwords
-
-!
-
-Nuts n bolts
-===
-* Reviews take 2 weeks
-* Apple takes 30%
-* GST is 10%
-* Marginal tax will take 37% of what remains
-* Put it in the wife's name!
-* Ads in apps make nothing
-
-!
-
-Ideas
----
-* Pair up, make two apps, one in each name to make revenue split simple
-* Android - never touched. Get in the ground floor on tablets?
-* Scratch your own itch - make a very simple app
-
-!
-
-Whats stopping you?
----
-Any questions?
+10x

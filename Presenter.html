@@ -2,51 +2,45 @@
 <head>
 <title>Markdown Presenter</title>
 <style>
+
   html, body {
   	margin:0;
   	border:0;
   	padding:0;
-  	font-family: helvetica;
+  	font-family: Ubuntu, Verdana;
     color: white;
   }
+
+  h1,h2,h3 {border-bottom:3px #111 ridge; padding-bottom:16px;}
+
+  li {list-style-type:none; line-height:1em; background: url(./arrow_right.png) no-repeat 0 50%; margin:0; padding:0.5em 0; padding-left:3em;}
 
   a, a:visited {color:#66f;}
   
   div.centered {
+	font-size:250%;
   	margin:auto;
-  	font-size:40px;
-  	width:20em; /* So we get about 10 words per line */
+  	width:22em;
   }
+
   .slideCount {
     position: absolute;
     bottom: 1em;
     right: 1em;
   }
 
-  /* My styling here */
   body {
     background: #000;
     background: -webkit-gradient(linear, left top, left bottom, from(#112), to(#000));
     background: -moz-linear-gradient(top,  #334,  #112);
-    text-shadow: #000 0 -2px 0;
+    text-shadow: #000 0 2px 1px;
   }
-  .bg {
-    background-image: url(bg.jpg);
-    position:absolute;
-    left:0;
-    right:0;
-    top:0;
-    bottom:0;
-    opacity:0.01;
-   }
- /* End styling */
+
 </style>
 <script type="text/javascript" src="jquery.min.js"></script>
 <script type="text/javascript" src="showdown.js"></script>
 </head>
 <body>
-
-<div class="bg">&nbsp;</div>
 
 <table style="width:100%;height:100%;border-collapse:collapse">
 <tr valign=center>
